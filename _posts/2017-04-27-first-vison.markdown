@@ -25,3 +25,4 @@ date: 2017-04-27 15:32:24.000000000 +09:00
 " target="_blank"><img src="http://img.funshion.com/pictures/277/526/2/2775262.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+点图片直接可以跳视频😯
