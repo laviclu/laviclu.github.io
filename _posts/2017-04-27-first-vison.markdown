@@ -18,6 +18,8 @@ date: 2017-04-27 15:32:24.000000000 +09:00
 远眺鼓浪屿
 ![markdown logo](/image/IMG_1152.JPG "hua")
 植物园里的花
+
 > 图还是有很多的，奈何写博客太累了，就这样当第一篇博文吧，最后来集搞笑日和博君一笑！
+
 [![IMAGE ALT TEXT HERE](http://img.funshion.com/pictures/277/526/2/2775262.jpg)](https://www.bilibili.com/video/av3168651/?from=search&seid=277411721216089054)
 
