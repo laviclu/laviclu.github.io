@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 记四月份鼓浪屿--->>厦门植物园
+title: 记四月份鼓浪屿--->厦门植物园
 date: 2017-04-27 15:32:24.000000000 +09:00
 ---
 
-### 吐槽
+### 吐槽（心情变化）
 
- 大概是清明后的第一个周末，反正天气巨[:sunny:]，热到爆炸，我怀着大毅力两天陪同学逛了鼓浪屿和植物园，这波应该不亏，因为我都没去过:joy:
-
+ 
 #### Usage
 
 ```bash
@@ -24,7 +23,7 @@ For more information about Jekyll, please visit [Jekyll's site](http://jekyllrb.
 ## pic
 
 ![markdown logo](/image/IMG_1146.JPG "markdown 图标1")
-:joy:
+Maybe the garden :joy:
 #### Sites using Vno
 
 [My blog](http://onevcat.com) is using `Vno Jekyll` as well, you could see how it works in real. There are some other sites using the same theme. You can find them below:
