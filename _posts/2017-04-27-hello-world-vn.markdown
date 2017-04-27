@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 厦大这一年
+title: 记四月份鼓浪屿--->>厦门植物园
 date: 2017-04-27 15:32:24.000000000 +09:00
 ---
 
-#### What's this
+### 吐槽
 
-[Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
+ 大概是清明后的第一个周末，反正天气巨:sunny:，热到爆炸，我怀着大毅力两天陪同学逛了鼓浪屿和植物园，这波应该不亏，因为我都没去过:joy:
 
 #### Usage
 
@@ -21,14 +21,10 @@ Your site with `Vno Jekyll` enabled should be accessible in http://127.0.0.1:400
 
 For more information about Jekyll, please visit [Jekyll's site](http://jekyllrb.com).
 
-#### Configuration
+## pic
 
-All configuration could be done in `_config.yml`. Remember you need to restart to serve the page when after changing the config file. Everything in the config file should be self-explanatory.
-
-#### Background image and avatar
-
-You could replace the background and avatar image in `assets/images` folder to change them.
-
+![markdown logo](/image/IMG_1146.JPG "markdown 图标1")
+:joy:
 #### Sites using Vno
 
 [My blog](http://onevcat.com) is using `Vno Jekyll` as well, you could see how it works in real. There are some other sites using the same theme. You can find them below:
