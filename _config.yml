@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: blue
+cover_color: white
 
 # The blog button should not be removed.
 blog_button:
@@ -39,8 +39,8 @@ comment:
 social:
     weibo: lrdvr12
     github: laviclu
-    ins: lavic.liu
-    gplus: 107108267983477358170
+    instagram: lavic.liu
+    
     mail: lavic.liu@gmail.com
 
 # Google Analytics
