@@ -2,5 +2,6 @@
 修改知识协议之类的在footer.html
 
 
- 在写文章的时候，在终端执行bundle exec jekyll serve，开启Jekyll本地环境，可以一边写博文，一边刷新http://127.0.0.1:4000/地址查看实时效果。写完提交git，就完事啦。
+在写文章的时候，在终端执行bundle exec jekyll serve，开启Jekyll本地环境，可以一边写博文，一边刷新http://127.0.0.1:4000/地址查看实时效果。写完提交git，就完事啦。
+
 
