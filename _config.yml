@@ -1,7 +1,7 @@
 # Basic
 title: lavic Liu
-subtitle: coding,travelling,thunder,photoer 
-welcome_message: <a href="" target="_blank">xmu,student</a>
+subtitle: coding,travelling
+welcome_message: xmu,student
 description: 不忘初心.
 creator: <a href="http://github.com/laviclu">@lavic</a>
 
@@ -23,7 +23,7 @@ blog_button:
 # Navigation buttons in the front page.
 nav:
     - {title: hupu, description: Thunder, url: 'https://bbs.hupu.com/thunder'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+    #- {title: , description: A button, url: 'http://example.com'}
 
 # Pagination
 gems: [jekyll-paginate]
