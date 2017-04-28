@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 记四月份鼓浪屿--->>厦门植物园
+title: 记四月份厦门大学->鼓浪屿->厦门植物园
 date: 2017-04-27 15:32:24.000000000 +09:00
 ---
 
@@ -10,19 +10,26 @@ date: 2017-04-27 15:32:24.000000000 +09:00
 
 #### NO 图 NO bb
 
+![markdown logo](/image/IMG_1116.JPG "海市蜃楼")
+应该是海市蜃楼😂
+![markdown logo](/image/IMG_0430.JPG "珍珠湾")
+实验室楼下的珍珠湾
 ![markdown logo](/image/IMG_1146.JPG "菽庄花园")
 应该是菽庄花园吧
-![markdown logo](/image/IMG_1150.JPG "people")
-不会拍还硬上。。。
 ![markdown logo](/image/IMG_1144.JPG "gulangyu")
 远眺鼓浪屿
 ![markdown logo](/image/IMG_1152.JPG "hua")
 植物园里的？这是荷花？
 
-> 图还是有很多的，奈何写博客太累了，就这样当第一篇博文吧，最后来集上海话版搞笑日和博君一笑😊！
+####下一个想去的地方
 
-<a href="https://www.bilibili.com/video/av3168651/?from=search&seid=277411721216089054
-" target="_blank"><img src="http://img.funshion.com/pictures/277/526/2/2775262.jpg" 
+![markdown logo](/image/IMG_1193.JPG "湘北")
+鐮倉高校前，去日本一定要去打卡💪
+
+> 图还是有很多的，奈何写博客太累了，就这样当第一篇博文吧，最后来看一下航拍中国！感受下大好河山😊
+
+<a href="https://www.bilibili.com/video/av8320409/index_4.html
+" target="_blank"><img src="http://img.tvmao.com/stills/drama/102/805/b/L7StW7KnK7D.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 点图片直接可以跳视频😯
